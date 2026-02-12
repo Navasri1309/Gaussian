@@ -20,17 +20,14 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 5.Print the solution vector formatted to two decimal places.
 
 ## Program:
-```
-/*
+
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by:NAVASRI.B 
 RegisterNumber: 212225230196
-*/
 
 <img width="1205" height="595" alt="Screenshot 2026-02-12 204326" src="https://github.com/user-attachments/assets/0dc6eb15-3573-49d0-a68b-a08f06270fcc" />
 <img width="1204" height="877" alt="Screenshot 2026-02-12 204355" src="https://github.com/user-attachments/assets/21e0c7c5-f468-46ad-b9fa-b4452bacf407" />
 
-```
 
 ## Output:
 
